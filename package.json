@@ -1,0 +1,24 @@
+{
+  "name": "react-native-nfc-reader",
+  "version": "0.0.1",
+  "description": "A React Native module that allows you to read NFC Card Tag ID in Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ataomega/react-native-nfc-reader"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "react-native-nfc-reader",
+  ],
+  "author": "Ata S.Mohammadi <ataomega@gmail.com>",
+  "license": "NONE",
+  "bugs": {
+    "url": "https://github.com/ataomega/react-native-nfc-reader/issues"
+  },
+  "homepage": "https://github.com/ataomega/react-native-nfc-reader#readme"
+}
